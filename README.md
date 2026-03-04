@@ -301,45 +301,6 @@ A structured learning path featuring:
 
 ---
 
-## `> experience --timeline`
-
-### 🚀 Work Experience
-
-**🧠 AI / ML Engineering** — *Independent* (2026 - Present)  
-*Project-Based | Computer Vision & ML-Driven Security*
-
-Developing end-to-end machine learning systems focused on computer vision and cybersecurity. Designed and trained CNN, SVM, and NLP models, performed feature engineering and evaluation, and deployed ML pipelines using Flask APIs with integration into Android applications such as phishing detection tools.
-
-**Key Technologies:** Python, TensorFlow, scikit-learn, Flask, OpenCV, YOLO, Hugging Face, FastAPI, Android, NLP
-
----
-
-**💻 Full Stack Developer** — *Freelance* (2024 - 2025)  
-*Remote | Project-Based*
-
-Designed and developed full-stack web applications from UI to backend logic. Implemented authentication flows, database-driven features, and API integrations. Built scalable project structures with modular components. Optimized loading performance and deployed applications using modern workflows.
-
-**Key Technologies:** Python, HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Framer Motion, PostgreSQL, MySQL, REST API, GitHub, Vercel
-
----
-
-**🔧 Software Developer** — *Freelance* (2023 - 2024)  
-*Remote | Project-Based*
-
-Developed responsive websites and prototype web applications for small clients and academic projects. Built reusable UI components, handled form processing, and implemented REST API consumption for dynamic data. Gained experience in version control, debugging, and performance optimization.
-
-**Key Technologies:** Python, HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, MySQL, REST API, GitHub
-
----
-
-**📊 Online Administrative** — *Freelance* (2021 - Present)  
-*Remote*
-
-Managed documentation and scheduling with precision. Handled email correspondence, scheduling, and record management improving efficiency and accuracy.
-
-**Metrics:** 200+ Transactions | 98% Accuracy | 90% Reduced Wait Time
-
----
 
 ## `> connect --open`
 
