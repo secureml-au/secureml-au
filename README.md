@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3d2e,100:22c55e&height=200&section=header&text=Au%20Amores&fontSize=70&fontColor=22c55e&fontAlignY=55&desc=Junior%20AI/ML%20Engineer%20|%20Software%20Developer&descSize=18&descAlignY=75&descColor=86efac&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Computer+Vision+%26+ML-Driven+Security+🔐;Building+End-to-End+ML+Pipelines+🚀;CNN+|+SVM+|+Hybrid+Models+🧠;Turning+Algorithms+into+Impact+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Computer+Vision+%26+ML-Driven+Security+;Building+End-to-End+ML+Pipelines+;CNN+|+SVM+|+Hybrid+Models+;Turning+Algorithms+into+Impact+)](https://git.io/typing-svg)
 
 <br>
 
@@ -23,19 +23,19 @@
 class Developer:
     def __init__(self):
         self.name        = "Au Amores"
-        self.role        = "Junior AI/ML Engineer | Software Developer"
+        self.role        = "AI/ML Engineer | Software Developer"
         self.location    = "Chicago, IL"
         self.focus       = ["Computer Vision", "ML-Driven Security", "Deep Learning"]
         self.currently   = [
-            "🧠 CNN-based Image Processing",
-            "🔒 ML-driven Security Systems",
-            "⚡ Real-time Prediction Pipelines",
-            "📚 Learning Guides & Roadmaps",
+            " CNN-based Image Processing",
+            " ML-driven Security Systems",
+            " Real-time Prediction Pipelines",
+            " Learning Guides & Roadmaps",
         ]
-        self.open_to     = "Freelance projects & collaborations 🤝"
+        self.open_to     = "Freelance projects & collaborations "
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+        print("Thanks for visiting! Let's build something amazing together ")
 
 me = Developer()
 me.say_hi()
@@ -48,7 +48,7 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🧠 AI & Machine Learning
+###  AI & Machine Learning
 - **Deep Learning** — CNN, SVM, Hybrid Models
 - **Computer Vision** & Image Processing
 - **Model Training, Evaluation & Optimization**
@@ -58,7 +58,7 @@ me.say_hi()
 </td>
 <td width="50%">
 
-### 🔐 Security & Development
+###  Security & Development
 - **ML-based Security Systems**
 - **SQL Injection Detection**
 - **Phishing Detection using NLP**
@@ -78,7 +78,7 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🍺 [Alcohol Intoxication Detection](https://github.com/cybersec-dev-au/detecting-alcohol-intoxication-using-image-processing)
+###  [Alcohol Intoxication Detection](https://github.com/cybersec-dev-au/detecting-alcohol-intoxication-using-image-processing)
 **AI-powered facial analysis using CNN, SVM, and hybrid models**
 
 Detecting alcohol intoxication from facial images with complete computer vision pipeline. Achieved **98.4% accuracy** through advanced feature extraction and model comparison.
@@ -97,7 +97,7 @@ Detecting alcohol intoxication from facial images with complete computer vision 
 </td>
 <td width="50%">
 
-### 🔗 [Malicious URL Detection](https://github.com/cybersec-dev-au/malicious-url-detection-using-ml)
+###  [Malicious URL Detection](https://github.com/cybersec-dev-au/malicious-url-detection-using-ml)
 **ML-powered system for detecting phishing & malicious URLs**
 
 URL threat-classification system using multiple ML algorithms—Random Forest, XGBoost, and SVM—to detect and categorize malicious web links with high accuracy.
@@ -116,7 +116,7 @@ URL threat-classification system using multiple ML algorithms—Random Forest, X
 <tr>
 <td width="50%">
 
-### 🛡️ [PhishGuard AI Scanner](https://github.com/cybersec-dev-au/PhishGuardApp)
+###  [PhishGuard AI Scanner](https://github.com/cybersec-dev-au/PhishGuardApp)
 **Real-Time Phishing Detection System**
 
 Advanced security app leveraging NLP to detect and classify phishing messages in real-time. Built with Android frontend and Python Flask backend for instant risk assessment. Achieved **98.4% accuracy** in identifying malicious communications.
@@ -132,7 +132,7 @@ Advanced security app leveraging NLP to detect and classify phishing messages in
 </td>
 <td width="50%">
 
-### 📩 [Spam Message Detector](https://github.com/cybersec-dev-au/spam-message-detection)
+###  [Spam Message Detector](https://github.com/cybersec-dev-au/spam-message-detection)
 **NLP-powered spam classifier with real-time text analysis**
 
 Machine learning-based spam classifier using NLP techniques including TF-IDF vectorization and Naive Bayes classification to accurately identify spam messages.
@@ -151,7 +151,7 @@ Machine learning-based spam classifier using NLP techniques including TF-IDF vec
 <tr>
 <td width="50%">
 
-### 🔐 [JWT Authentication System](https://github.com/cybersec-dev-au/jwt-authentication-system-flask)
+###  [JWT Authentication System](https://github.com/cybersec-dev-au/jwt-authentication-system-flask)
 **Token-based authentication backend built with Flask and JWT**
 
 Secure user registration, password hashing with bcrypt, login validation, and protected API routes using Bearer tokens. Complete implementation of modern authentication best practices.
@@ -166,7 +166,7 @@ Secure user registration, password hashing with bcrypt, login validation, and pr
 </td>
 <td width="50%">
 
-### 🛡️ [SQL Injection Detection](https://github.com/cybersec-dev-au/sql-injection-attack-detection)
+###  [SQL Injection Detection](https://github.com/cybersec-dev-au/sql-injection-attack-detection)
 **ML-powered security tool that classifies SQL queries**
 
 Security-focused project demonstrating SQL injection vulnerabilities and detection. Features a Flask API backend with a real-time web interface for testing injection payloads.
@@ -185,7 +185,7 @@ Security-focused project demonstrating SQL injection vulnerabilities and detecti
 
 <div align="center">
 
-### [🔥 Explore Full Repository](https://github.com/cybersec-dev-au)
+### [ Explore Full Repository](https://github.com/cybersec-dev-au)
 
 </div>
 
@@ -193,22 +193,22 @@ Security-focused project demonstrating SQL injection vulnerabilities and detecti
 
 ## `> ls learning_resources.txt`
 
-### 🗺️ [Cybersecurity Roadmap 2026](https://github.com/cybersec-dev-au/cybersecurity-roadmap-2026)
+###  [Cybersecurity Roadmap 2026](https://github.com/cybersec-dev-au/cybersecurity-roadmap-2026)
 
 > **Comprehensive beginner-to-advanced cybersecurity guide**
 
 A structured learning path featuring:
 
-- 📚 Curated resources and tools
-- 🧪 Hands-on labs and projects
-- 📈 Clear progression from basics to advanced topics
-- 🏆 Industry-relevant skills and certifications
+-  Curated resources and tools
+-  Hands-on labs and projects
+-  Clear progression from basics to advanced topics
+-  Industry-relevant skills and certifications
 
 ---
 
 ## `> tech --list`
 
-### 🧠 Machine Learning & AI
+###  Machine Learning & AI
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -230,13 +230,13 @@ A structured learning path featuring:
 ![CNN](https://img.shields.io/badge/CNN-2196F3?style=flat-square&logo=tensorflow&logoColor=white)
 ![SVM](https://img.shields.io/badge/SVM-9E9E00?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21F?style=flat-square&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/%20Hugging%20Face-FFD21F?style=flat-square&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6F42C1?style=flat-square&logo=roboflow&logoColor=white)
 ![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
-### 💻 Languages & Frameworks
+###  Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -266,7 +266,7 @@ A structured learning path featuring:
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Web Crypto API](https://img.shields.io/badge/Web%20Crypto%20API-22C55E?style=flat-square&logo=javascript&logoColor=white)
 
-### 🛠️ Developer Tools
+###  Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -306,13 +306,13 @@ A structured learning path featuring:
 
 <div align="center">
 
-| 💼 LinkedIn | 🐙 GitHub | 🌐 Portfolio | 📬 Email |
+|  LinkedIn |  GitHub |  Portfolio |  Email |
 |-------------|-----------|--------------|----------|
 | [au-amores](https://www.linkedin.com/in/au-amores/) | [cybersec-dev-au](https://github.com/cybersec-dev-au) | [au-dev-cs.vercel.app](https://au-dev-cs.vercel.app) | [auamores3@gmail.com](mailto:auamores3@gmail.com) |
 
 <br>
 
-### 🤝 Open to freelance projects and collaborations!
+###  Open to freelance projects and collaborations!
 
 <br>
 
