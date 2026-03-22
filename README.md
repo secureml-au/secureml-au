@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3d2e,100:22c55e&height=200&section=header&text=Au%20Amores&fontSize=70&fontColor=22c55e&fontAlignY=55&desc=Junior%20AI/ML%20Engineer%20|%20Software%20Developer&descSize=18&descAlignY=75&descColor=86efac&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3d2e,100:22c55e&height=200&section=header&text=Au%20Amores&fontSize=70&fontColor=22c55e&fontAlignY=55&desc=%20AI/ML%20Engineer%20|%20Software%20Developer&descSize=18&descAlignY=75&descColor=86efac&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Computer+Vision+%26+ML-Driven+Security+;Building+End-to-End+ML+Pipelines+;CNN+|+SVM+|+Hybrid+Models+;Turning+Algorithms+into+Impact+)](https://git.io/typing-svg)
 
