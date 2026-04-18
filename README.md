@@ -73,18 +73,19 @@ me = MLEngineer()
 <td width="50%" valign="top">
 
 ### **Alcohol Intoxication Detection**
-**AI-powered facial analysis using CNN, SVM, and hybrid models**
+**Android mobile app for AI-powered facial analysis**
 
-Detecting alcohol intoxication from facial images with complete computer vision pipeline. Achieved **98.4% accuracy** through advanced feature extraction and model comparison.
+Real-time alcohol intoxication detection from facial images using CNN, SVM, and hybrid models. Complete on-device computer vision pipeline with **98.4% accuracy** through advanced feature extraction and model comparison.
 
 **Tech Stack:**
+[image](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+[image](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white)
 [image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[image](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 [image](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
-[image](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-[image](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 [image](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
-[[Code](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo) [[Demo](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo)
+[[Code](https://github.com/cybersec-dev-au)](https://github.com/cybersec-dev-au)
 
 </td>
 <td width="50%" valign="top">
@@ -101,7 +102,7 @@ URL threat classification system using Random Forest, XGBoost, and SVM to detect
 [image](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 [image](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-[[Code](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo) [[Live](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo)
+[[Code](https://github.com/cybersec-dev-au)](https://github.com/cybersec-dev-au) [[Live](https://github.com/cybersec-dev-au)](https://github.com/cybersec-dev-au)
 
 </td>
 </tr>
@@ -114,13 +115,13 @@ URL threat classification system using Random Forest, XGBoost, and SVM to detect
 Advanced security app leveraging NLP to detect and classify phishing messages in real-time. Built with Android frontend and Python Flask backend for instant risk assessment. Achieved **98.4% accuracy** in identifying malicious communications.
 
 **Tech Stack:**
-[image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[image](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 [image](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white)
+[image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 [image](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 [image](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-[image](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
-[[Code](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo) [[APK](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo)
+[[Code](https://github.com/cybersec-dev-au)](https://github.com/cybersec-dev-au) [[APK](https://github.com/cybersec-dev-au)](https://github.com/cybersec-dev-au)
 
 </td>
 <td width="50%" valign="top">
@@ -135,9 +136,9 @@ Machine learning based spam classifier using NLP techniques including TF-IDF vec
 [image](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 [image](https://img.shields.io/badge/NLTK-15493E?style=flat-square)
 [image](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-[image](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+[image](https://img.shields.io/badge/Streamlit-FF4B?style=flat-square&logo=streamlit&logoColor=white)
 
-[[Code](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo) [[Notebook](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo)
+[[Code](https://github.com/cybersec-dev-au/spam-app)](https://github.com/cybersec-dev-au/spam-app) [[Demo](https://github.com/cybersec-dev-au/spam-app)](https://github.com/cybersec-dev-au/spam-app)
 
 </td>
 </tr>
@@ -152,11 +153,11 @@ Secure user registration, password hashing with bcrypt, login validation, and pr
 **Tech Stack:**
 [image](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 [image](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-[image](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+[image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 [image](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-[image](https://img.shields.io/badge/bcrypt-33873F?style=flat-square)
+[image](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-[[Code](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo) [[Docs](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo)
+[[Code](https://github.com/cybersec-dev-au)](https://github.com/cybersec-dev-au) [[Docs](https://github.com/cybersec-dev-au)](https://github.com/cybersec-dev-au)
 
 </td>
 <td width="50%" valign="top">
@@ -173,7 +174,7 @@ Security focused project demonstrating SQL injection vulnerabilities and detecti
 [image](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 [image](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-[[Code](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo) [[Demo](https://github.com/cybersec-dev-au/repo)](https://github.com/cybersec-dev-au/repo)
+[[Code](https://github.com/cybersec-dev-au)](https://github.com/cybersec-dev-au) [[Demo](https://github.com/cybersec-dev-au)](https://github.com/cybersec-dev-au)
 
 </td>
 </tr>
