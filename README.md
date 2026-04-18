@@ -41,19 +41,19 @@ me = MLEngineer()
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-###  AI & Machine Learning
+### **AI & Machine Learning**
 - **Deep Learning** — CNN, SVM, Hybrid Models
-- **Computer Vision** & Image Processing
+- **Computer Vision & Image Processing**
 - **Model Training, Evaluation & Optimization**
 - **Real-time Prediction Systems**
 - **Feature Engineering & Data Preprocessing**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-###  Security & Development
+### **Security & Development**
 - **ML-based Security Systems**
 - **SQL Injection Detection**
 - **Phishing Detection using NLP**
@@ -64,7 +64,6 @@ me = MLEngineer()
 </td>
 </tr>
 </table>
-
 ---
 
 ## `> ls projects/`
