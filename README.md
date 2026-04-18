@@ -249,12 +249,12 @@ A structured learning path featuring:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cybersec-dev-au&theme=chartreuse-dark&hide_border=true&border_radius=10&background=0D1117&stroke=22c55e&ring=22c55e&fire=86efac&currStreakLabel=22c55e)
+![GitHub Streak](https://streak-stats.demolab.com?user=secureml-au&theme=chartreuse-dark&hide_border=true&border_radius=10&background=0D1117&stroke=22c55e&ring=22c55e&fire=86efac&currStreakLabel=22c55e)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cybersec-dev-au&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=86efac)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersec-dev-au&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=22c55e&text_color=86efac)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=secureml-au&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=86efac)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=secureml-au&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=22c55e&text_color=86efac)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cybersec-dev-au&bg_color=0D1117&color=22c55e&line=22c55e&point=86efac&area=true&hide_border=true&area_color=0f3d2e)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=secureml-au&bg_color=0D1117&color=22c55e&line=22c55e&point=86efac&area=true&hide_border=true&area_color=0f3d2e)
 
 </div>
 
