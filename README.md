@@ -267,7 +267,7 @@ A structured learning path featuring:
 
 |  LinkedIn |  GitHub |  Portfolio |  Email |
 |-------------|-----------|--------------|----------|
-| [au-amores](https://www.linkedin.com/in/au-amores/) | [cybersec-dev-au](https://github.com/cybersec-dev-au) | [au-dev-cs.vercel.app](https://au-dev-cs.vercel.app) | [auamores3@gmail.com](mailto:auamores3@gmail.com) |
+| [au-amores](https://www.linkedin.com/in/au-amores/) | [cybersec-dev-au](https://github.com/secureml-au) | [au-dev-cs.vercel.app](https://au-dev-cs.vercel.app) | [auamores3@gmail.com](mailto:auamores3@gmail.com) |
 
 <br>
 
