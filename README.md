@@ -21,26 +21,20 @@
 ## `> whoami`
 
 ```python
-class Developer:
+class MLEngineer:
     def __init__(self):
-        self.name        = "Au Amores"
-        self.role        = "AI/ML Engineer | Software Developer"
-        self.location    = "Chicago, IL"
-        self.focus       = ["Computer Vision", "ML-Driven Security", "Deep Learning"]
-        self.currently   = [
-            " CNN-based Image Processing",
-            " ML-driven Security Systems",
-            " Real-time Prediction Pipelines",
-            " Learning Guides & Roadmaps",
-        ]
-        self.open_to     = "Freelance projects & collaborations "
+        self.name = "Au Amores"
+        self.role = "AI/ML Engineer | ML Security Specialist"
+        self.location = "GMT+8 | Open to Remote/US Hours"
+        self.stack = ["PyTorch", "TensorFlow", "FastAPI", "Docker", "AWS"]
+        self.focus = ["Computer Vision", "Adversarial ML", "MLOps for Security"]
+        self.building = "Real-time threat detection with CNNs"
+        self.ask_me_about = ["Model deployment", "CV pipelines", "MLsec"]
+    
+    def contact(self):
+        return "Let's ship secure AI systems together"
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together ")
-
-me = Developer()
-me.say_hi()
-# Output: Thanks for visiting! Let's build something amazing together 🚀
+me = MLEngineer()
 ```
 
 <br>
