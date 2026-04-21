@@ -260,16 +260,6 @@ A structured learning path featuring:
 ---
 
 
-## `> connect --open`
-
-<div align="center">
-
-|  LinkedIn |  GitHub |  Portfolio |  Email |
-|-------------|-----------|--------------|----------|
-| [au-amores](https://www.linkedin.com/in/au-amores/) | [secureml-au](https://github.com/secureml-au) | [au-dev-cs.vercel.app](https://au-dev-cs.vercel.app) | [auamores3@gmail.com](mailto:auamores3@gmail.com) |
-
-<br>
-
 ###  Open to freelance projects and collaborations!
 
 <br>
