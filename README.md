@@ -17,6 +17,14 @@
 
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f3d2e,100:0d1117&height=3)
 
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=cybersec-dev-au&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+
 ## `> whoami`
 
 ```python
