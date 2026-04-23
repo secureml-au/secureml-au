@@ -50,8 +50,6 @@ me = MLEngineer()
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<div align="center">
   
 ### **AI & Machine Learning**
 - **Deep Learning** — CNN, SVM, Hybrid Models
@@ -74,7 +72,6 @@ me = MLEngineer()
 </td>
 </tr>
 </table>
-</div>
 ---
 
 ## `>> ls projects/
