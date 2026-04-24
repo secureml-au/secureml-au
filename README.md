@@ -276,11 +276,6 @@ A structured learning path featuring:
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=cybersec-dev-au&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 ---
 
