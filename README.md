@@ -31,7 +31,7 @@
 ```python
 class MLEngineer:
     def __init__(self):
-        self.name = "Au Amores"
+        self.name = "Au"
         self.role = "AI/ML Engineer | ML Security Specialist"
         self.location = "GMT+8 | Open to Remote/US Hours"
         self.stack = ["PyTorch", "TensorFlow", "FastAPI", "Docker", "AWS"]
