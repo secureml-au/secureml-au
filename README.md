@@ -270,7 +270,7 @@ A structured learning path featuring:
 
 <div align="center">
   
-###  Open to freelance projects and collaborations!!
+###  Open to freelance projects and collaborations!
 
 </div>
 
