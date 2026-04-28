@@ -1,286 +1,404 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3d2e,100:22c55e&height=200&section=header&text=Au%20Amores&fontSize=70&fontColor=22c55e&fontAlignY=55&desc=%20AI/ML%20Engineer%20|%20Software%20Developer&descSize=18&descAlignY=75&descColor=86efac&animation=twinkling)
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3d2e,100:22c55e&height=280&section=header&text=Au%20Amores&fontSize=80&fontColor=22c55e&fontAlignY=55&desc=AI/ML%20Engineer%20%7C%20MLSec%20%7C%20Computer%20Vision&descSize=18&descColor=86efac&animation=fadeIn&stroke=22c55e&strokeWidth=2" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Computer+Vision+%26+ML-Driven+Security+;Building+End-to-End+ML+Pipelines+;CNN+|+SVM+|+Hybrid+Models+;Turning+Algorithms+into+Impact+)](https://git.io/typing-svg)
+<!-- LIVE TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=+Engineering+Production+ML+Systems;+CNN+%7C+SVM+%7C+Hybrid+Deep+Learning;+Computer+Vision+%26+Real-time+Detection;+ML-Driven+Security+%26+Threat+Intelligence;+%3C15ms+Inference+%7C+99.8%25+Accuracy" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/au-amores/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://au-dev-cs.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:auamores3@gmail.com)
+<!-- STATUS BADGES ROW -->
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/INFERENCE-<15ms-22c55e?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ACCURACY-99.8%25-22c55e?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/REMOTE-FIRST-22c55e?style=for-the-badge&logo=wifi&logoColor=white&labelColor=0d1117"/>
 
+<br/><br/>
+
+<!-- PROFILE VIEWS + SOCIALS -->
+[![Profile Views](https://komarev.com/ghpvc/?username=cybersec-dev-au&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/secureml-au)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-au--amores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/au-amores/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-au--dev--cs-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://au-dev-cs.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-auamores-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/auamores/)
+[![Email](https://img.shields.io/badge/Email-auamores3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:auamores3@gmail.com)
 
 </div>
-
----
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f3d2e,100:0d1117&height=3)
 
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=cybersec-dev-au&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0f3d2e&height=3&section=header" width="100%"/>
 </div>
 
-
-## `> whoami`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `> whoami`
 
 ```python
-class MLEngineer:
-    def __init__(self):
-        self.name = "Au"
-        self.role = "AI/ML Engineer | ML Security Specialist"
-        self.location = "GMT+8 | Open to Remote/US Hours"
-        self.stack = ["PyTorch", "TensorFlow", "FastAPI", "Docker", "AWS"]
-        self.focus = ["Computer Vision", "Adversarial ML", "MLOps for Security"]
-        self.building = "Real-time threat detection with CNNs"
-        self.ask_me_about = ["Model deployment", "CV pipelines", "MLsec"]
-    
-    def contact(self):
-        return "Let's ship secure AI systems together"
+class Au:
+ def __init__(self):
+ self.name = "Au Amores"
+ self.alias = "secureml-au"
+ self.role = ["AI/ML Engineer", "MLSec Specialist", "Full Stack Developer"]
+ self.location = "Philippines | GMT+8 | Open to Remote/US Hours"
+ self.website = "https://au-dev-cs.vercel.app"
 
-me = MLEngineer()
+ self.core_stack = ["PyTorch", "TensorFlow", "OpenCV", "FastAPI", "Flask", "Docker"]
+ self.focus = ["Computer Vision", "Adversarial ML", "MLOps", "ML Security"]
+ self.thesis = "Detecting Alcohol Intoxication via Image Processing (CNN+SVM)"
+
+ self.metrics = {
+ "inference_latency" : "<15ms",
+ "model_accuracy" : "99.8% F1",
+ "throughput" : "10K events/s",
+ "onnx_speedup" : "+40%"
+ }
+
+ def current_mission(self):
+ return "Building hardened AI systems. One model at a time. "
+
+au = Au()
+print(au.current_mission())
 ```
 
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-  
-### **AI & Machine Learning**
-- **Deep Learning** — CNN, SVM, Hybrid Models
-- **Computer Vision & Image Processing**
-- **Model Training, Evaluation & Optimization**
-- **Real-time Prediction Systems**
-- **Feature Engineering & Data Preprocessing**
-
-</td>
-<td width="50%" valign="top">
-
-### **Security & Development**
-- **ML-based Security Systems**
-- **SQL Injection Detection**
-- **Phishing Detection using NLP**
-- **Cybersecurity Foundations**
-- **Full Stack Web Development**
-- **Web-based ML Deployment**
-
-</td>
-</tr>
-</table>
----
-
-## `>> ls projects/
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### **Alcohol Intoxication Detection**
-**Android mobile app for AI-powered facial analysis**
-
-Real-time alcohol intoxication detection from facial images using CNN, SVM, and hybrid models. Complete on-device computer vision pipeline with **98.4% accuracy** through advanced feature extraction and model comparison.
-
-**Tech Stack:**  
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### **Malicious URL Detection**
-**ML-powered system for detecting phishing & malicious URLs**
-
-URL threat classification system using Random Forest, XGBoost, and SVM to detect and categorize malicious web links. Achieved **96.2% accuracy** with <100ms latency.
-
-**Tech Stack:**  
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### **PhishGuard AI Scanner**
-**Real-Time Phishing Detection System**
-
-Advanced security app leveraging NLP to detect and classify phishing messages in real-time. Built with Android frontend and Python Flask backend for instant risk assessment. Achieved **98.4% accuracy** in identifying malicious communications.
-
-**Tech Stack:**  
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### **Spam Message Detector**
-**NLP-powered spam classifier with real-time text analysis**
-
-Machine learning based spam classifier using NLP techniques including TF-IDF vectorization and Naive Bayes classification. Achieved **97.1% accuracy** on SMS spam dataset.
-
-**Tech Stack:**  
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/NLTK-15493E?style=for-the-badge)
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### **JWT Authentication System**
-**Token-based authentication backend built with Flask and JWT**
-
-Secure user registration, password hashing with bcrypt, login validation, and protected API routes using Bearer tokens. Complete implementation of modern authentication best practices.
-
-**Tech Stack:**  
-![](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### **SQL Injection Detection**
-**ML-powered security tool that classifies SQL queries**
-
-Security focused project demonstrating SQL injection vulnerabilities and detection. Features a Flask API backend with a real-time web interface for testing injection payloads. Achieved **95.8% detection rate**.
-
-**Tech Stack:**  
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-</td>
-</tr>
-</table>
+> **Output →** `Building hardened AI systems. One model at a time. `
 
 ---
 
-## `> ls learning_resources.txt`
-
-###  [Cybersecurity Roadmap 2026](https://github.com/cybersec-dev-au/cybersecurity-roadmap-2026)
-
-> **Comprehensive beginner-to-advanced cybersecurity guide**
-
-A structured learning path featuring:
-
--  Curated resources and tools
--  Hands-on labs and projects
--  Clear progression from basics to advanced topics
--  Industry-relevant skills and certifications
-
----
-
-## `> tech --list
-
-### **Machine Learning & AI**
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white)
-![](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge)
-![](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white)
-![](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
-![](https://img.shields.io/badge/Streamlit-FF4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### **Languages & Frameworks**
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![](https://img.shields.io/badge/Web_Crypto_API-4285F4?style=for-the-badge)
-
-### **Data & ML Tools**
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-
-### **Developer Tools & Infrastructure**
-![](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## `> git log --stats`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> `>> capabilities --scan`
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=secureml-au&theme=chartreuse-dark&hide_border=true&border_radius=10&background=0D1117&stroke=22c55e&ring=22c55e&fire=86efac&currStreakLabel=22c55e)
+| Deep Learning | Computer Vision | ML Security | Full Stack |
+|:---:|:---:|:---:|:---:|
+| CNN / SVM / Hybrid | Real-time YOLO | PhishGuard AI | Next.js / React |
+| PyTorch · TensorFlow | OpenCV Pipelines | SQL Injection ML | Flask / FastAPI |
+| ONNX Quantization | MobileNetV2 / EfficientNet | NLP Threat Intel | PostgreSQL / MySQL |
+| Transfer Learning | Vision Transformers | Adversarial Defense | Docker / Vercel |
+| Model Fine-tuning | MediaPipe / Haarcascade | JWT Zero-Trust | Tailwind / Bootstrap |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=secureml-au&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=86efac)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=secureml-au&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=22c55e&text_color=86efac)
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=secureml-au&bg_color=0D1117&color=22c55e&line=22c55e&point=86efac&area=true&hide_border=true&area_color=0f3d2e)
+---
+
+## `> ls projects/ --pinned`
+
+<div align="center">
+
+### FLAGSHIP SYSTEMS
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Alcohol Intoxication Detection
+**`CNN + SVM + Hybrid | 98.4% ACC`**
+
+AI-powered facial analysis detecting alcohol intoxication in real-time. Complete on-device CV pipeline with biometric feature extraction deployed on Android.
+
+**Stack:**
+`Python` `OpenCV` `CNN` `SVM` `PyTorch` `TensorFlow` `Colab` `Kaggle` `Android Studio`
+
+[![Repo](https://img.shields.io/badge/Repository-View_Code-22c55e?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/ares-coding/detecting_alcohol_intoxication-using-image-processing)
+
+</td>
+<td width="50%" valign="top">
+
+#### PhishGuard AI Scanner
+**`NLP | Real-time | 98.4% F1`**
+
+Enterprise-grade phishing detection using Transformer + ONNX. Flask REST backend + Android frontend with sub-15ms inference latency.
+
+**Stack:**
+`Python` `Flask` `TensorFlow` `Keras` `NLP` `Java` `Android Studio` `VS Code`
+
+[![Repo](https://img.shields.io/badge/Repository-View_Code-22c55e?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/ares-coding/PhishGuardApp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Malicious URL Detection
+**`Random Forest + XGBoost + SVM | 96.2% ACC`**
+
+Multi-algorithm URL threat intelligence platform classifying malicious web links with <100ms latency.
+
+**Stack:**
+`Python` `Scikit-Learn` `XGBoost` `Pandas` `Streamlit` `Jupyter`
+
+[![Repo](https://img.shields.io/badge/Repository-View_Code-22c55e?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/ares-coding/malicious-url-detection)
+
+</td>
+<td width="50%" valign="top">
+
+#### Spam Message Detector
+**`TF-IDF + Naive Bayes | 97.1% ACC`**
+
+High-precision NLP spam classifier with minimal false positives across SMS datasets.
+
+**Stack:**
+`Python` `Scikit-Learn` `NLP` `Pandas` `NumPy` `Jupyter`
+
+[![Repo](https://img.shields.io/badge/Repository-View_Code-22c55e?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/ares-coding/spam-message-detector-NLP)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### JWT Authentication System
+**`Zero-Trust | RBAC | bcrypt`**
+
+Secure token-based auth framework with industry-standard bcrypt hashing, session management, and API route protection.
+
+**Stack:**
+`Flask` `JWT` `SQLite` `SQLAlchemy` `bcrypt`
+
+[![Repo](https://img.shields.io/badge/Repository-View_Code-22c55e?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/ares-coding/jwt-authentication-system-flask)
+
+</td>
+<td width="50%" valign="top">
+
+#### SQL Injection Detection
+**`ML Classifier | 95.8% Detection Rate`**
+
+Real-time SQL injection vulnerability auditing tool with Flask API and live web interface for payload testing.
+
+**Stack:**
+`Python` `Flask` `Scikit-Learn` `NLP` `HTML/CSS`
+
+[![Repo](https://img.shields.io/badge/Repository-View_Code-22c55e?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/ares-coding/sql-injection-detection)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+#### Guardian Protocol: Security Awareness Platform
+**`Interactive Cyber-Grid | Cryptography Training`**
+
+Next-gen security awareness platform bridging cryptographic standards with human intuition. Interactive modules on identity management and secure protocols.
+
+**Stack:** `JavaScript` `HTML5` `CSS3` `Vite` `Web Crypto API`
+
+[![Repo](https://img.shields.io/badge/Repository-View_Code-22c55e?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/secureml-au/SecurityAwareness)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_All-0f3d2e?style=flat-square&logo=vercel&labelColor=0d1117)](https://au-dev-cs.vercel.app/#projects)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> tech --list --full`
+
+### AI & Machine Learning
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/_HuggingFace-FFD21E?style=for-the-badge)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Chroma](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-00C7B7?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+</div>
+
+### Languages & Frameworks
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Web Crypto API](https://img.shields.io/badge/Web_Crypto_API-428SF4?style=for-the-badge)
+
+</div>
+
+### Databases & Data
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/bcrypt-FF0000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</div>
+
+### DevOps, Cloud & Infra
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+### Developer Tools
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+</div>
+
+---
+
+## `> git log --stats --all`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.demolab.com?user=secureml-au&theme=chartreuse-dark&hide_border=true&border_radius=10&background=0D1117&stroke=22c55e&ring=22c55e&fire=86efac&currStreakLabel=22c55e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=secureml-au&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=86efac" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secureml-au&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=22c55e&text_color=86efac" height="130"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=secureml-au&bg_color=0D1117&color=22c55e&line=22c55e&point=86efac&area=true&hide_border=true&area_color=0f3d2e" width="100%"/>
+
+</div>
+
+---
+
+## `> achievements --display`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=secureml-au&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `> career --timeline`
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║ TIMELINE: Au Amores // secureml-au ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ ║
+║ ██ 2026 — PRESENT █████████████████████████████ [ACTIVE] ║
+║ AI/ML Engineer ║
+║ → PhishGuard AI + MLSec pipelines ║
+║ → CNN vision systems | <15ms ONNX inference ║
+║ → Stack: PyTorch · Flask · Docker · ONNX · OpenCV ║
+║ ║
+║ ██ 2024 — 2025 ████████████████████████ ║
+║ Full Stack Developer ║
+║ → Zero-trust JWT auth | 95+ Lighthouse score ║
+║ → Stack: Next.js · React · TypeScript · PostgreSQL ║
+║ ║
+║ ██ 2023 — 2024 █████████████████ ║
+║ Software Developer ║
+║ → MVPs for Academic & Startup clients ║
+║ → Stack: React · JavaScript · Bootstrap · Node.js · Firebase ║
+║ ║
+║ ██ 2021 — 2023 ████████████ ║
+║ Operations & Executive Assistant (US-based Tech Startup) ║
+║ → 200+ monthly correspondences | 98% data accuracy ║
+║ → -90% wait time via automation ║
+║ ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `> connect --all`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/_Portfolio-au--dev--cs.vercel.app-22c55e?style=for-the-badge&labelColor=0d1117)](https://au-dev-cs.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/au-amores/)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:auamores3@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/auamores/)
+
+<br/>
+
+> **Open to:** ML Security Roles · Freelance Contracts · Remote-First · Response <24hrs
 
 </div>
 
 ---
 
 <div align="center">
-  
-###  Open to freelance projects and collaborations!!
 
-</div>
-
----
-
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0d1117&height=120&section=footer&text=Building+the+future,+one+algorithm+at+a+time.+🚀&fontSize=16&fontColor=86efac&fontAlignY=70&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0d1117&height=120&section=footer&text=Building+the+future,+one+algorithm+at+a+time.+&fontSize=16&fontColor=86efac&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
