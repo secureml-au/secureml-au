@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3d2e,100:22c55e&height=280&section=header&text=Au%20Amores&fontSize=80&fontColor=22c55e&fontAlignY=55&desc=AI/ML%20Engineer%20%7C%20MLSec%20%7C%20Computer%20Vision&descSize=18&descColor=86efac&animation=fadeIn&stroke=22c55e&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3d2e,100:22c55e&height=300&section=header&text=Au%20Amores&fontSize=80&fontColor=22c55e&fontAlignY=50&desc=AI/ML%20Engineer%20%7C%20MLSec%20%7C%20Computer%20Vision&descSize=18&descColor=86efac&descAlignY=72&animation=fadeIn&stroke=22c55e&strokeWidth=2" width="100%"/>
 
 <!-- LIVE TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
