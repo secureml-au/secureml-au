@@ -33,37 +33,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0f3d2e&height=3&section=header" width="100%"/>
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `> whoami`
-
-```python
-class Au:
- def __init__(self):
- self.name = "Au Amores"
- self.alias = "secureml-au"
- self.role = ["AI/ML Engineer", "MLSec Specialist", "Full Stack Developer"]
- self.location = "Philippines | GMT+8 | Open to Remote/US Hours"
- self.website = "https://au-dev-cs.vercel.app"
-
- self.core_stack = ["PyTorch", "TensorFlow", "OpenCV", "FastAPI", "Flask", "Docker"]
- self.focus = ["Computer Vision", "Adversarial ML", "MLOps", "ML Security"]
- self.thesis = "Detecting Alcohol Intoxication via Image Processing (CNN+SVM)"
-
- self.metrics = {
- "inference_latency" : "<15ms",
- "model_accuracy" : "99.8% F1",
- "throughput" : "10K events/s",
- "onnx_speedup" : "+40%"
- }
-
- def current_mission(self):
- return "Building hardened AI systems. One model at a time. "
-
-au = Au()
-print(au.current_mission())
-```
-
-> **Output →** `Building hardened AI systems. One model at a time. `
-
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> `>> capabilities --scan`
@@ -346,50 +315,6 @@ Next-gen security awareness platform bridging cryptographic standards with human
 </div>
 
 ---
-
-## `> career --timeline`
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║ TIMELINE: Au Amores // secureml-au ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ ║
-║ ██ 2026 — PRESENT █████████████████████████████ [ACTIVE] ║
-║ AI/ML Engineer ║
-║ → PhishGuard AI + MLSec pipelines ║
-║ → CNN vision systems | <15ms ONNX inference ║
-║ → Stack: PyTorch · Flask · Docker · ONNX · OpenCV ║
-║ ║
-║ ██ 2024 — 2025 ████████████████████████ ║
-║ Full Stack Developer ║
-║ → Zero-trust JWT auth | 95+ Lighthouse score ║
-║ → Stack: Next.js · React · TypeScript · PostgreSQL ║
-║ ║
-║ ██ 2023 — 2024 █████████████████ ║
-║ Software Developer ║
-║ → MVPs for Academic & Startup clients ║
-║ → Stack: React · JavaScript · Bootstrap · Node.js · Firebase ║
-║ ║
-║ ██ 2021 — 2023 ████████████ ║
-║ Operations & Executive Assistant (US-based Tech Startup) ║
-║ → 200+ monthly correspondences | 98% data accuracy ║
-║ → -90% wait time via automation ║
-║ ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `> connect --all`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/_Portfolio-au--dev--cs.vercel.app-22c55e?style=for-the-badge&labelColor=0d1117)](https://au-dev-cs.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/au-amores/)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:auamores3@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/auamores/)
-
-<br/>
 
 > **Open to:** ML Security Roles · Freelance Contracts · Remote-First · Response <24hrs
 
