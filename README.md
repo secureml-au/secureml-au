@@ -323,3 +323,9 @@ Next-gen security awareness platform bridging cryptographic standards with human
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0d1117&height=120&section=footer&text=Building+the+future,+one+algorithm+at+a+time.+&fontSize=16&fontColor=86efac&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
+
+---
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/secureml-au/secureml-au/output/snake.svg" alt="Snake animation" />
+</p>
