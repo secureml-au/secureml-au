@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3d2e,100:22c55e&height=300&section=header&text=Au%20Amores&fontSize=80&fontColor=22c55e&fontAlignY=50&desc=AI/ML%20Engineer%20%7C%20MLSec%20%7C%20Computer%20Vision&descSize=18&descColor=86efac&descAlignY=72&animation=fadeIn&stroke=22c55e&strokeWidth=2" width="100%"/>
-
-<!-- LIVE TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=+Engineering+Production+ML+Systems;+CNN+%7C+SVM+%7C+Hybrid+Deep+Learning;+Computer+Vision+%26+Real-time+Detection;+ML-Driven+Security+%26+Threat+Intelligence;+%3C15ms+Inference+%7C+99.8%25+Accuracy" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="assets/au_amores_banner.png" alt="SecureML Banner" />
+</p>
 
 <br/>
 
