@@ -8,8 +8,6 @@
 
 <!-- STATUS BADGES ROW -->
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/INFERENCE-<15ms-22c55e?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/ACCURACY-99.8%25-22c55e?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/REMOTE-FIRST-22c55e?style=for-the-badge&logo=wifi&logoColor=white&labelColor=0d1117"/>
 
 <br/><br/>
