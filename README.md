@@ -29,22 +29,6 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> `>> capabilities --scan`
-
-<div align="center">
-
-| Deep Learning | Computer Vision | ML Security | Full Stack |
-|:---:|:---:|:---:|:---:|
-| CNN / SVM / Hybrid | Real-time YOLO | PhishGuard AI | Next.js / React |
-| PyTorch · TensorFlow | OpenCV Pipelines | SQL Injection ML | Flask / FastAPI |
-| ONNX Quantization | MobileNetV2 / EfficientNet | NLP Threat Intel | PostgreSQL / MySQL |
-| Transfer Learning | Vision Transformers | Adversarial Defense | Docker / Vercel |
-| Model Fine-tuning | MediaPipe / Haarcascade | JWT Zero-Trust | Tailwind / Bootstrap |
-
-</div>
-
----
-
 ## `> ls projects/ --pinned`
 
 <div align="center">
