@@ -1,9 +1,5 @@
+https://github.com/user-attachments/assets/af1565fd-247c-402d-9c5b-b4c5cf4ed17c
 <div align="center">
-
-<p align="center">
-  <img src="assets/au_amores_banner.png" alt="SecureML Banner" />
-</p>
-
 <br/>
 
 <!-- STATUS BADGES ROW -->
