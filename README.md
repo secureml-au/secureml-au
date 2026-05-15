@@ -5,6 +5,7 @@ https://github.com/user-attachments/assets/e7cd182d-7ecb-41d9-8295-51fcf5f65a03
 <!-- STATUS BADGES ROW -->
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/REMOTE-FIRST-22c55e?style=for-the-badge&logo=wifi&logoColor=white&labelColor=0d1117"/>
+<img width="1297" height="312" alt="Image" src="https://github.com/user-attachments/assets/5a4d26cb-0fd7-4290-b511-2f26ceb4eb50" />
 
 <br/><br/>
 
