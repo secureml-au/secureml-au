@@ -19,9 +19,24 @@ https://github.com/user-attachments/assets/e7cd182d-7ecb-41d9-8295-51fcf5f65a03
 </div>
 
 ---
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/secureml-au/secureml-au/output/snake.svg" alt="Snake animation" />
+</p>
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0f3d2e&height=3&section=header" width="100%"/>
+</div>
+
+---
+
+## `> achievements --display`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=secureml-au&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -266,12 +281,8 @@ Next-gen security awareness platform bridging cryptographic standards with human
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com?user=secureml-au&theme=chartreuse-dark&hide_border=true&border_radius=10&background=0D1117&stroke=22c55e&ring=22c55e&fire=86efac&currStreakLabel=22c55e" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api?username=secureml-au&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=86efac" height="165"/>
-
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secureml-au&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=22c55e&text_color=86efac" height="130"/>
 
 <br/>
 
@@ -281,13 +292,7 @@ Next-gen security awareness platform bridging cryptographic standards with human
 
 ---
 
-## `> achievements --display`
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=secureml-au&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -304,7 +309,3 @@ Next-gen security awareness platform bridging cryptographic standards with human
 </div>
 
 ---
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/secureml-au/secureml-au/output/snake.svg" alt="Snake animation" />
-</p>
