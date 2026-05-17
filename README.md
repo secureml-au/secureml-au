@@ -301,6 +301,7 @@ Next-gen security awareness platform bridging cryptographic standards with human
 </div>
 
 ---
+<img width="1610" height="872" alt="Image" src="https://github.com/user-attachments/assets/cf1ec079-783f-4b9f-adbf-f522a8c2dca8" />
 
 <div align="center">
 
@@ -309,3 +310,4 @@ Next-gen security awareness platform bridging cryptographic standards with human
 </div>
 
 ---
+
