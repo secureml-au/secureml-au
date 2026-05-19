@@ -4,12 +4,10 @@
 
 <!-- STATUS BADGES ROW -->
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117"/>
-<img width="354" height="128" alt="Image" src="https://github.com/user-attachments/assets/0734d565-4c9e-4b54-8d2a-1d534be20c08" />
 <img src="https://img.shields.io/badge/REMOTE-FIRST-22c55e?style=for-the-badge&logo=wifi&logoColor=white&labelColor=0d1117"/>
-<img width="981" height="235" alt="Image" src="https://github.com/user-attachments/assets/ee45c423-3a84-4ae5-83d7-13884e03fe6a" />
+<img width="1304" height="303" alt="Image" src="https://github.com/user-attachments/assets/19d06787-16c5-4f93-9e33-6f1a704457c6" />
 
 <br/><br/>
-
 <!-- PROFILE VIEWS + SOCIALS -->
 [![Profile Views](https://komarev.com/ghpvc/?username=cybersec-dev-au&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/secureml-au)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-au--amores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/au-amores/)
